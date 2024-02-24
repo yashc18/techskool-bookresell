@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PDF Download</title>
+<style>
+    body {
+	background-color:#FFB6C1;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .pdf-container {
+        width: 50%;
+        height: 60vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .pdf-viewer {
+        width: 60%;
+        height: 70%;
+    }
+    .download-button {
+        margin-top: 20px;
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        text-decoration: none;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+</style>
+</head>
+<body>
+  <header>
+    <center>
+    <h1>:-:-:<u>Welcome to The PDF Download Section</u>:-:-:</h1>
+    <h3>:::Right To Education And a Right to Financial Freedom:::</h3>
+    <h5>-----By <u>Team Aspirez :D </u></h5>
+    </center>
+  </header>
+<center>
+<div class="pdf-container">
+    <iframe class="pdf-viewer" src="Chem.pdf" frameborder="0"></iframe>
+    <h3>SUBJECT:-Engineering Chemistry</h3>
+    <h3>UNIVERSITY:-SPPU</h3>
+    <h3>UNIT:-1 MCQ's</h3>
+    <p>Provided By:- Dhanesh Naikare</p>
+    <a class="download-button" href="Chem.pdf" download>Download PDF</a>
+
+</div>
+
+<div class="pdf-container">
+    <iframe class="pdf-viewer" src="SME.pdf" frameborder="0"></iframe>
+    <h3>SUBJECT:-Systems In Mechanical Engineering</h3>
+    <h3>UNIVERSITY:-SPPU</h3>
+    <h3>UNIT:-3</h3>
+    <p>Provided By:- Sujal Memane</p>
+    <a class="download-button" href="SME.pdf" download>Download PDF</a>
+
+</div>
+
+
+<div class="pdf-container">
+    <iframe class="pdf-viewer" src="M1.pdf" frameborder="0"></iframe>
+    <h3>SUBJECT:-Engineering Mathematics 1</h3>
+    <h3>UNIVERSITY:-SPPU</h3>
+    <h3>UNIT:-3</h3>
+    <p>Provided By:- Yash Chaudhary</p>
+    <a class="download-button" href="M1.pdf" download>Download PDF</a>
+
+</div>
+
+
+<div class="pdf-container">
+    <iframe class="pdf-viewer" src="PPSP.pdf" frameborder="0"></iframe>
+    <h3>SUBJECT:-Programming For Problem Solving</h3>
+    <h3>UNIVERSITY:-SPPU</h3>
+    <h3>UNIT:-3</h3>
+    <p>Provided By:- Atharva Mutkule</p>
+    <a class="download-button" href="PPSP.pdf" download>Download PDF</a>
+
+</div>
+
+</center>
+<h3><u>NOTES AND PDF UPLOADING SECTION</u>:-</h3>
+<p><u>Coming Soon...</u></p>
+
+</body>
+</html>
