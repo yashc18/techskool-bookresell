@@ -20,4 +20,4 @@ Method 2 -
 
 Use the following url for directly running the code
 
-https://rawcdn.githack.com/yashc18/techskool-bookresell/ 303992bd63e26d9b3a3bba726e8ae3929fd66297/Main/ Main.html
+https://rawcdn.githack.com/yashc18/techskool-bookresell/ 303992bd63e26d9b3a3bba726e8ae3929fd66297/Main/Main.html
